@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\UDAY\\Downloads\\wifi-direct-group-master\\WiFiAdHoc\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\UDAY\\Downloads\\wifi-direct-group-master\\WiFiAdHoc\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "58",
+                        "endOffsets": "71"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "683",
+                        "endColumns": "57",
+                        "endOffsets": "736"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\UDAY\\Downloads\\wifi-direct-group-master\\WiFiAdHoc\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,8,10,11,12,13,14,9,7,15,4,5,6,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "17,276,357,394,431,468,505,321,214,542,68,122,166,593",
+                        "endColumns": "45,44,36,36,36,36,36,35,61,50,53,43,47,56",
+                        "endOffsets": "58,316,389,426,463,500,537,352,271,588,117,161,209,645"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,146,183,220,257,294,331,367,429,480,534,578,626",
+                        "endColumns": "45,44,36,36,36,36,36,35,61,50,53,43,47,56",
+                        "endOffsets": "96,141,178,215,252,289,326,362,424,475,529,573,621,678"
+                    }
+                }
+            ]
+        }
+    ]
+}

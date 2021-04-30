@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\UDAY\\Downloads\\wifi-direct-group-master\\WiFiAdHoc\\build\\intermediates\\res\\merged\\debug\\layout_list_view.xml.flat",
+        "source": "C:\\Users\\UDAY\\Downloads\\wifi-direct-group-master\\WiFiAdHoc\\src\\main\\res\\layout\\list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\UDAY\\Downloads\\wifi-direct-group-master\\WiFiAdHoc\\build\\intermediates\\res\\merged\\debug\\menu_activity_main.xml.flat",
+        "source": "C:\\Users\\UDAY\\Downloads\\wifi-direct-group-master\\WiFiAdHoc\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\UDAY\\Downloads\\wifi-direct-group-master\\WiFiAdHoc\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_wifip2p.png.flat",
+        "source": "C:\\Users\\UDAY\\Downloads\\wifi-direct-group-master\\WiFiAdHoc\\src\\main\\res\\drawable-mdpi\\wifip2p.png"
+    },
+    {
+        "merged": "C:\\Users\\UDAY\\Downloads\\wifi-direct-group-master\\WiFiAdHoc\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_wifip2p.png.flat",
+        "source": "C:\\Users\\UDAY\\Downloads\\wifi-direct-group-master\\WiFiAdHoc\\src\\main\\res\\drawable-ldpi\\wifip2p.png"
+    },
+    {
+        "merged": "C:\\Users\\UDAY\\Downloads\\wifi-direct-group-master\\WiFiAdHoc\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_wifip2p.png.flat",
+        "source": "C:\\Users\\UDAY\\Downloads\\wifi-direct-group-master\\WiFiAdHoc\\src\\main\\res\\drawable-xhdpi\\wifip2p.png"
+    },
+    {
+        "merged": "C:\\Users\\UDAY\\Downloads\\wifi-direct-group-master\\WiFiAdHoc\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wifip2p.png.flat",
+        "source": "C:\\Users\\UDAY\\Downloads\\wifi-direct-group-master\\WiFiAdHoc\\src\\main\\res\\drawable-hdpi\\wifip2p.png"
+    },
+    {
+        "merged": "C:\\Users\\UDAY\\Downloads\\wifi-direct-group-master\\WiFiAdHoc\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\UDAY\\Downloads\\wifi-direct-group-master\\WiFiAdHoc\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

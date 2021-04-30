@@ -1,0 +1,66 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gradle\
+* .gradle\6.8\
+* .gradle\6.8\executionHistory\
+* .gradle\6.8\executionHistory\executionHistory.lock
+* .gradle\6.8\fileChanges\
+* .gradle\6.8\fileChanges\last-build.bin
+* .gradle\6.8\fileHashes\
+* .gradle\6.8\fileHashes\fileHashes.lock
+* .gradle\6.8\gc.properties
+* .gradle\buildOutputCleanup\
+* .gradle\buildOutputCleanup\buildOutputCleanup.lock
+* .gradle\buildOutputCleanup\cache.properties
+* .gradle\checksums\
+* .gradle\checksums\checksums.lock
+* .gradle\configuration-cache\
+* .gradle\configuration-cache\gc.properties
+* .gradle\vcs-1\
+* .gradle\vcs-1\gc.properties
+* .idea\
+* .idea\.gitignore
+* .idea\libraries\
+* .idea\libraries\android_support_v4.xml
+* .idea\libraries\android_support_v42.xml
+* .idea\markdown-navigator-enh.xml
+* .idea\markdown-navigator.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\workspace.xml
+* README.md
+* proguard-project.txt
+* wifi-direct-group-master.iml
+* wifip2p-web.png
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => WiFiAdHoc\src\main\AndroidManifest.xml
+* libs\android-support-v4.jar => WiFiAdHoc\libs\android-support-v4.jar
+* res\ => WiFiAdHoc\src\main\res\
+* src\ => WiFiAdHoc\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
